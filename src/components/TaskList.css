@@ -1,0 +1,19 @@
+.taskList , .taskListFinished{
+    width: 100%;
+    
+    line-height: 3rem;
+    display: block;
+}
+
+.taskList h2 , .taskListFinished h2{
+    
+    font-size: 2rem;
+}
+
+.taskListFinished p strong , .taskList p strong{
+    font-size: 2rem;
+}
+
+.taskListFinished p , .taskList p{
+    font-size: 1.5rem;
+}
